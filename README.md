@@ -1,6 +1,5 @@
 # revenuecat-custom-paywalls-swiftui
 Custom Paywalls using RevenueCat in iOS using Swiftui
-Here's a concise guide for integrating custom paywalls with RevenueCat in SwiftUI to include in your README file:
 
 ---
 
@@ -39,7 +38,3 @@ To implement custom paywalls in your SwiftUI project using RevenueCat, follow th
 
 ### 8. Test Your Integration
    - Ensure thorough testing of your paywall and purchasing flows in both sandbox and production environments.
-
----
-
-This guide provides the high-level steps to successfully integrate custom paywalls using RevenueCat in a SwiftUI project.
